@@ -362,7 +362,7 @@ class DataHandler
 
         $values = [];
         for ($i = 0; $i < $arrayLength; ++$i) {
-            $values[] = $this->getTAGLong($fPtr);
+            $values[] = [$this->getTAGInt($fPtr), $this->getTAGInt($fPtr)];
         }
 
         return $values;
