@@ -1,4 +1,3 @@
-
 This is a Named Binary Tag parser based upon the specification by Markus Persson.
 
 From the spec: "NBT (Named Binary Tag) is a tag based binary format designed to carry large amounts of binary data with smaller amounts of additional data. An NBT file consists of a single GZIPped Named Tag of type TAG_Compound."
