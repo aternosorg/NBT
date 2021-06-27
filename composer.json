@@ -1,5 +1,5 @@
 {
-    "name": "rickselby/nbt",
+    "name": "aternos/nbt",
     "type": "library",
     "description": "Parser/Writer for the NBT file format",
     "keywords": ["NBT", "decode", "encode", "binary"],
